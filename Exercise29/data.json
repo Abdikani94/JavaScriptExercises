@@ -1,0 +1,16 @@
+
+{
+    "id":1,
+    "name": "jimcaale",
+    "city": "Kambala",
+    "oders": [{
+        "id":1 , "product":"Mobile", "price": 1200
+    },
+    {
+        "id":2 , "product":"Laptob", "price": 500
+    },
+{
+    "id":3 , "product":"Fruits", "price": 20
+}]
+    
+}
